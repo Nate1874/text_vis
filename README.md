@@ -8,6 +8,8 @@ First, train a text classifier using the train function in ``model.py''.
 
 Then, use the test function in ``model.py'' to load the model and explain the decision for test data. 
 
+You need to modify the data path in data reader, word2vec path in helper, and other settings in the model.  
+
 Reference
 ---------
 
