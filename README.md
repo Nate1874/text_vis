@@ -4,6 +4,9 @@ The code for our AAAI 2019 paper:  Interpreting Deep Models for Text Analysis vi
 
 ## How to use our code
 
+First, train a text classifier using the train function in ``model.py''. 
+
+Then, use the test function in ``model.py'' to load the model and explain the decision for test data. 
 
 Reference
 ---------
